@@ -39,9 +39,38 @@ This website provides users with helpful tools to study. It provides them with a
 
 **3.Pizza Ordering App**
 
-This website allows users to order a pizza (or multiple)
+This function allows users to order a pizza (or multiple) in two different sixes (L/XL). The user also has the ability to customize the amount of toppings they would like on their pizza (0-4). Additionally, the user may choose to count a coupon, in which they would get 10% off from their total price. Finally, the user will recieve a neatly formatted reciept with their order, subtotal, tax, and final total. 
 
 **Skills**: 
 - Python
 
-[Link to Google Colab](https://colab.research.google.com/drive/18KOk30hz8yMTEcoFSwpNprDaG3jiXcHd)
+[Link to Google Colab](https://colab.research.google.com/drive/1_O7pkL_aDORWKvnIgUjQvHXN6GKXgJLV?authuser=1)
+
+**4.Pizza Ordering Storyboard**
+
+This slideshow clearly breaks down the different functions and aspects of the Pizza Ordering App. It includes colourful pictures, diagrams, text, and overall descriptions explaining the layout and duties of the buttons, images, etc.
+
+**Skills**: 
+- Organization
+- Designing
+- Critical Thinking
+
+[Link to Canva Slideshow](https://www.canva.com/design/DAG4Ur5MzMk/St_Pe_5Sc06Kngv56KEyFg/edit)
+
+**5.Minesweeper Validator Function**
+
+This code allows the user to input any type of Minesweeper grid (3x3, 4x4, 5x5, etc) with bombs and numbers fillings the grid. The code will validate the user's grid to see if their grid is mathematically correct. 
+
+**Skills**: 
+- Python
+
+[Link to Google Colab](https://colab.research.google.com/drive/1ctSis1BQAu1gPxSrMVz7rEgMGUTjslXb?authuser=1)
+
+**6.Sample Clothing Website**
+
+This website serves as a clothing store for users to browse through different outfits.
+
+**Skills**: 
+- HTML/CSS/JavaScript
+
+[Link to Google Colab](https://studious-happiness-wrjqv6vxp6xj39q96.github.dev/)
